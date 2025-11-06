@@ -247,7 +247,8 @@
     />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamiespencerbswd&show_icons=true&locale=en&layout=compact&bg_color=222222&title_color=ffffff&text_color=ffffff" alt="jamiespencerbswd" /></p>
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamiespencerbswd&show_icons=true&locale=en&layout=compact&bg_color=222222&title_color=ffffff&text_color=ffffff" alt="jamiespencerbswd" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jamiespencerbswd&show_icons=true&locale=en&bg_color=222222&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="jamiespencerbswd" /></p>
+</div>
