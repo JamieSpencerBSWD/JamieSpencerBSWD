@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, My name is Jamie Spencer</h1>
 <h3 align="center">I'm a Full Stack Web Developer with a passion in Front-End design.</h3>
 
--  I’m currently learning more about **Vue.JS, Backend Technologies, different frameworks,etc. as well as working on my various projects.**
+-  I’m currently learning more about **Vue.JS, Backend Technologies, Database Alternatives, etc. as well as working on various projects.**
 
--  How to reach me **jamie.spencer.dev@gmail.com**
+-  How to reach me: **jamie.spencer.dev@gmail.com**
 
--  Fun fact **I can't eat cilantro :(**
+-  Fun fact: **I can't eat cilantro :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
