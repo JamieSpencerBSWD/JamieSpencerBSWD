@@ -13,7 +13,7 @@
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
-<p align="center">
+<p align="center" style="text-decoration:none">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
