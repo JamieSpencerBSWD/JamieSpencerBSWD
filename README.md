@@ -58,7 +58,6 @@
       height="40"
     />
   </a>
-
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
@@ -125,11 +124,9 @@
     />
   </a>
 
-  <a
-    href="https://github.com/JamieSpencerBSWD"
+  <a href="https://github.com/JamieSpencerBSWD"
     target="_blank"
-    rel="noreferrer"
-  >
+    rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
       alt="github"
@@ -180,11 +177,9 @@
     />
   </a>
 
-  <a
-    href="https://dotnet.microsoft.com/en-us/apps/aspnet"
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"
     target="_blank"
-    rel="noreferrer"
-  >
+    rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
       alt="dotnet-core"
@@ -200,19 +195,15 @@
       height="40"
     />
   </a>
-  <a
-    href="https://learn.microsoft.com/en-us/dotnet/csharp"
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp"
     target="_blank"
-    rel="noreferrer"
-  >
-    <img
+    rel="noreferrer"><img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
       alt="c-sharp"
       width="40"
       height="40"
     />
   </a>
-
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
@@ -246,7 +237,6 @@
       height="40"
     />
   </a>
-
   <a href="postgresql.org" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
@@ -264,7 +254,6 @@
     />
   </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamiespencerbswd&show_icons=true&locale=en&layout=compact&bg_color=222222&title_color=ffffff&text_color=ffffff" alt="jamiespencerbswd" /></p>
 
