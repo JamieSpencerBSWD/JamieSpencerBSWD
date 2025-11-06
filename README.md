@@ -123,7 +123,6 @@
       height="40"
     />
   </a>
-
   <a href="https://github.com/JamieSpencerBSWD"
     target="_blank"
     rel="noreferrer">
@@ -142,7 +141,6 @@
       height="40"
     />
   </a>
-
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
@@ -151,7 +149,6 @@
       height="40"
     />
   </a>
-
   <a href="https://angular.dev" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
@@ -176,7 +173,6 @@
       height="40"
     />
   </a>
-
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"
     target="_blank"
     rel="noreferrer">
@@ -228,7 +224,6 @@
       height="40"
     />
   </a>
-
   <a href="vuejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
