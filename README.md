@@ -11,7 +11,7 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;color:inherit;">
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration:none;color:inherit;">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
       alt="react"
