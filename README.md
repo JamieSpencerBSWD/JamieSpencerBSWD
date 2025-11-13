@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, My name is Jamie Spencer</h1>
 <h3 align="center">I’m a Full Stack Developer building responsive web apps with JavaScript, React and Vue.</h3>
 
--  I’m currently learning more about **Vue.JS, Backend Technologies, Database Alternatives, etc. as well as working on various projects.**
+-  I’m currently learning more about **Vue.JS, Backend Technologies, Database Alternatives as well as working on various projects.**
 -  How to reach me: **jamie.spencer.dev@gmail.com**
 
 <h2 align="center">Connect with me:</h2>
