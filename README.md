@@ -7,7 +7,7 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/dspencerdjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamiespencer" height="30" width="40" /></a>
-<a href="mailto:jamie.spencer.dev@gmail.com" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" alt="link to gmail account" height="30" width="40" /></a>
+<a href="mailto:jamie.spencer.dev@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="link to gmail account" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
