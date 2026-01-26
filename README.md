@@ -224,22 +224,6 @@ I’m currently learning more about **Vue.JS, Backend Technologies, Database Alt
       height="40"
     />
   </a>
-  <a href="postgresql.org" target="_blank" rel="noreferrer" style="text-decoration:none;color:inherit;">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sqlite.org/" target="_blank" rel="noreferrer" style="text-decoration:none;color:inherit;">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
 
 <h2 align="center">Connect with me:</h2>
