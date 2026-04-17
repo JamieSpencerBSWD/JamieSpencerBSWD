@@ -4,7 +4,7 @@
 I’m currently learning more about **Vue.JS, Backend Technologies, Database Alternatives as well as working on various projects.**
 
 <h2 align="center">Languages and Tools:</h2>
-<p align="center">
+<p>
   <a href="https://reactjs.org/" target="_blank" style="text-decoration:none;color:inherit;">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
