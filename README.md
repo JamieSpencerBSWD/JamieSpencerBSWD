@@ -94,6 +94,6 @@ I’m working toward a full-stack or backend-leaning software engineering role w
 
 ## Contact
 
-GitHub: github.com/JamieSpencerBSWD  
-LinkedIn: linkedin.com/in/dspencerdjs
+GitHub: https://github.com/JamieSpencerBSWD  
+LinkedIn: https://linkedin.com/in/dspencerdjs  
 Email: jamie.spencer.dev@gmail.com OR dspencerdjs@gmail.com
