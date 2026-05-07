@@ -28,7 +28,7 @@ JavaScript, TypeScript, SQL
 Python, Java, C#, PHP
 
 ### Frontend
-React, HTML, CSS
+React, Vue, Angular, HTML, CSS
 
 ### Backend
 Node.js, Express
